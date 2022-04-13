@@ -1,0 +1,13 @@
+Patrones gestor de estados
+- Bloc
+- Getx
+- Providers
+- cubit
+
+
+- folders:
+	bloc
+	models
+	services
+	screens
+	widgets 
