@@ -8,7 +8,8 @@ import 'package:flutter/material.dart';
 //import 'src/future_paging.dart';
 //import 'src/stream_colors.dart';
 //import 'src/sliver_grid.dart';
-import 'src/sliver_list.dart';
+//import 'src/sliver_list.dart';
+import 'src/fade_transition.dart';
 
 void main() {
   runApp(MyApp());
